@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Agito - Nostr Powered Social",
+  "description": "A decentralized social experience built on the Nostr protocol, featuring custom frames, real-time chat and moderation for admins.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
